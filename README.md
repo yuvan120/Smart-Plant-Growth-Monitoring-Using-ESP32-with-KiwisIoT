@@ -20,6 +20,7 @@ Visit **[KiwisIoT – https://www.kiwisiot.in/](https://www.kiwisiot.in/)** to e
 
 ---
 
-<p align="center">
-  <b>Powered by ESP32 | Connected with KiwisIoT</b>
-</p>
+Blog Links:
+https://www.hackster.io/yuvansris2002/smart-plant-growth-monitoring-using-esp32-with-kiwisiot-a49bdd
+Learn More 
+https://github.com/Kiwistron/KiwisIoT-Projects
